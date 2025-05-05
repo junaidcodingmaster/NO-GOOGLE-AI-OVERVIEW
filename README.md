@@ -4,9 +4,12 @@ An open-source, simple-to-use extension that disables Google AI Overviews.
 
 This extension sets a custom search engine named `Custom-google`. If you like this project, please give it a star! The code is simple, and you're free to modify it to create your own custom search engine extension for Firefox.
 
+[Get it on Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/no-google-ai-overview/)
+
+
 ## How to Use
 
-1. Install the extension from the Firefox Add-ons store.
+1. Install the extension from the [Firefox Add-ons store](https://addons.mozilla.org/en-GB/firefox/addon/no-google-ai-overview/).
 2. Grant permission to change the default search engine.
 3. Done! You can now search without the annoying Google Gemini AI Overviews.
 
