@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "NO-GOOGLE-AI-OVERVIEW",
     "version": "1.0",
-    "description": "Open-source and simple to use NO GOOGLE-AI OVERVIEW extension. The search engine name is Custom-google. If anyone like this project please give an star on Github and The code is simple , so you can also create your own custom search engin.",
+    "description": "Open-source and simple to use NO GOOGLE-AI OVERVIEW extension. The search engine name is Custom-google. If anyone like this project please give an star on Github and The code is simple , so you can also create your own custom search engin. Github : https://github.com/junaidcodingmaster/NO-GOOGLE-AI-OVERVIEW",
     "chrome_settings_overrides": {
         "search_provider": {
             "is_default": true,
@@ -16,7 +16,7 @@
         "32": "icons/icon-32.png",
         "64": "icons/icon-64.png"
     },
-    "applications": {
+    "browser_specific_settings": {
         "gecko": {
             "id": "junaid@abujuni.dev"
         }
