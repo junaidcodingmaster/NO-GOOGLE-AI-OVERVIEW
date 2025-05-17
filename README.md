@@ -1,6 +1,15 @@
+![Mozilla Add-on Version](https://img.shields.io/amo/v/no-google-ai-overview?style=for-the-badge&labelColor=red&link=https%3A%2F%2Faddons.mozilla.org%2Fen-GB%2Ffirefox%2Faddon%2Fno-google-ai-overview)![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/no-google-ai-overview?style=for-the-badge)![Mozilla Add-on Users](https://img.shields.io/amo/users/no-google-ai-overview?style=for-the-badge)
+
+
+![Static Badge](https://img.shields.io/badge/build-stable-brightgreen?style=for-the-badge&label=BUILD)
+
+![LICENSE-badge](https://img.shields.io/badge/any_text-MIT-blue?style=for-the-badge&label=LICENCE)
+
+
 # NO-GOOGLE-AI-OVERVIEW
 ![LOGO](icons/banner.png)
-An open-source, simple, Ready-to-use extension that disables Google AI Overviews.
+
+**NO-GOOGLE-AI-OVERVIEW** is an open-source, simple, Ready-to-use extension that disables Google AI Overviews.
 
 This extension sets a custom search engine named `Custom-google`. If you like this project, please give it a star! The code is simple, and you're free to modify it to create your own custom search engine extension for Firefox.
 
@@ -24,15 +33,4 @@ This extension uses `chrome_settings_overrides` to override browser settings in 
 - `suggest_url`: URL used for search suggestions.  
   **Note:** The response from this URL must be in JSON format.
   - `{searchTerms}`: This placeholder is replaced with the actual search query by the browser.
-- `keyword`: Custom keyword for triggering the search engine or `@google` to override default Google search engine to this.
-
-## Sources
-- [Create your 1st Firefox Ext](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
-- [`V3`-Migration](https://extensionworkshop.com/documentation/develop/manifest-v3-migration-guide/)
-- [`chrome_settings_overrides`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides)
-
----
-
-**License :** [MIT LICENSE](./License)
-
-**Made By :** [Junaid](https://abujuni.dev)
+- `keyword`: Custom keyword for triggering the search engine or `@google` to over

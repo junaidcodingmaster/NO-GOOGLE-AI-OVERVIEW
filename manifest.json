@@ -1,14 +1,14 @@
 {
     "manifest_version": 3,
-    "name": "NO-GOOGLE-AI-OVERVIEW",
+    "name": "NO GOOGLE AI OVERVIEW",
     "version": "1.3",
-    "description": "Open-source, simple and Ready to use NO GOOGLE-AI OVERVIEW extension.",
+    "description": "Open-source, Simple and Ready to use NO GOOGLE-AI OVERVIEW extension.",
     "chrome_settings_overrides": {
         "search_provider": {
             "is_default": true,
             "name": "Custom-Google",
             "search_url": "https://google.com/search?udm=14&q={searchTerms}",
-            "suggest_url": "https://suggestqueries.google.com/complete/search?udm=14&client=firefox&q={searchTerms}",
+            "suggest_url": "https://suggestqueries.google.com/complete/search?client=firefox&q={searchTerms}",
             "keyword": "@google"
         }
     },
