@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "NO GOOGLE AI OVERVIEW",
-    "version": "1.3",
+    "version": "1.4",
     "description": "Open-source, Simple and Ready to use NO GOOGLE-AI OVERVIEW extension.",
     "chrome_settings_overrides": {
         "search_provider": {
