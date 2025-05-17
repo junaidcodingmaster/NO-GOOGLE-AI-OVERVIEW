@@ -6,7 +6,7 @@
     "chrome_settings_overrides": {
         "search_provider": {
             "is_default": true,
-            "name": "Custom-Google",
+            "name": "NO-OVERVIEW",
             "search_url": "https://google.com/search?udm=14&q={searchTerms}",
             "suggest_url": "https://suggestqueries.google.com/complete/search?client=firefox&q={searchTerms}",
             "keyword": "@google"
