@@ -1,9 +1,8 @@
-![Mozilla Add-on Version](https://img.shields.io/amo/v/no-google-ai-overview?style=for-the-badge&labelColor=red&link=https%3A%2F%2Faddons.mozilla.org%2Fen-GB%2Ffirefox%2Faddon%2Fno-google-ai-overview)![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/no-google-ai-overview?style=for-the-badge)![Mozilla Add-on Users](https://img.shields.io/amo/users/no-google-ai-overview?style=for-the-badge)
-
-
-![Static Badge](https://img.shields.io/badge/build-stable-brightgreen?style=for-the-badge&label=BUILD)
-
-![LICENSE-badge](https://img.shields.io/badge/any_text-MIT-blue?style=for-the-badge&label=LICENCE)
+![Mozilla Add-on Version](https://img.shields.io/amo/v/no-google-ai-overview?style=for-the-badge&labelColor=red&link=https%3A%2F%2Faddons.mozilla.org%2Fen-GB%2Ffirefox%2Faddon%2Fno-google-ai-overview)
+![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/no-google-ai-overview?style=for-the-badge)
+![Mozilla Add-on Users](https://img.shields.io/amo/users/no-google-ai-overview?style=for-the-badge)![Status Approve Badge](https://img.shields.io/badge/any_text-PENDING-yellow?style=for-the-badge&label=approved)
+![Status Build Badge](https://img.shields.io/badge/build-stable-brightgreen?style=for-the-badge&label=BUILD)
+![LICENSE badge](https://img.shields.io/badge/any_text-MIT-blue?style=for-the-badge&label=LICENCE)
 
 
 # NO-GOOGLE-AI-OVERVIEW
