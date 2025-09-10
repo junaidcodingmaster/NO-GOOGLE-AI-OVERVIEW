@@ -34,4 +34,4 @@ This extension uses `chrome_settings_overrides` to override browser settings in 
 - `suggest_url`: URL used for search suggestions.  
   **Note:** The response from this URL must be in JSON format.
   - `{searchTerms}`: This placeholder is replaced with the actual search query by the browser.
-- `keyword`: Custom keyword for triggering the search engine or `@google` to over
+- `keyword`: Custom keyword for triggering the search engine or `@google` to override it with custom search engine.
